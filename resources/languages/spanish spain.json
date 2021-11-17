@@ -1,0 +1,46 @@
+{
+    "APP_NAME": "Jackbox Party Pack Patcher+",
+    "MAIN_INSTALLED_VERSION": "Versión instalada",
+    "MAIN_INSTALL_PATCH": "Instalar parche",
+    "MAIN_INSTALL_ALL": "Actualizar todo",
+    "MAIN_UPDATE_AVAILABLE": "Actualizar",
+    "MAIN_UPDATE_PATCH": "Actualizar parche",
+    "MAIN_REMOVE_PATCH": "Eliminar parche",
+    "MAIN_PATCH_UPDATE": "Disponible:",
+    "MAIN_NO_PATCH_FOR_GAME": "No hay un parche disponible",
+    "MAIN_GAME_MISSING": "Juego no encontrado",
+    "MAIN_GAME_PATCH_UPTODATE": "Actualizado",
+    "MAIN_RUN_SETUP": "Configuración",
+    "SETUP_HEADER": "Te damos la bienvenida a Jackbox Party Pack Patcher+ - El parche de localización todo en uno.\nSelecciona el ejecutable para cada juego que tengas instalado debajo y pulsa Guardar para continuar.\nSi un título está en verde significa que posee una ruta válida.",
+    
+    "MAIN_DOWNLOAD_CONNECTING": "Conectando al servidor...",
+    "MAIN_DOWNLOAD_CONNECTED": "¡Servidor conectado!",
+    "MAIN_DOWNLOAD_DOWNLOADING": "Descargando e instalando...",
+    "MAIN_DOWNLOAD_EXTRACTING": "Extrayendo...",
+    "MAIN_DOWNLOAD_INSTALLED": "Instalado parche de {}",
+    "MAIN_DOWNLOAD_CONNECTFAIL": "No se ha podido conectar al servidor.",
+    "MAIN_DOWNLOAD_BADURL": "¡Error! URL incorrecta",
+    "MAIN_DOWNLOAD_ERROR": "Error desconocido",
+    
+    
+    "SETUP_JACKBOX_PACK_LOCATIONS": "Ubicaciones de los Packs de Jackbox",
+    "SETUP_STAND_ALONE_GAMES": "Juegos por separado",
+    "SETUP_LANGUAGE": "Idioma",
+    "SETUP_BROWSE": "Explorar",
+    "SETUP_ATTEMPT_AUTO_DETECT": "Intentar detección automática",
+    "SETUP_SAVE_CONTINUE": "Guardar y continuar",
+    "SETUP_NEW_LANG": "La aplicación ahora se cerrará para aplicar el nuevo idioma. Por favor vuelve a abrirla.",
+
+    "SETUP_TEXT_SCANNING": "Escaneado...",
+    "SETUP_TEXT_DONESCANNING": "¡Escaneo terminado!",
+    "SETUP_TEXT_FOUND": "Se ha encontrado lo siguiente:",
+    "SETUP_TEXT_FIRST_FOUND": "¡Te damos la bienvenida a {}!\nUna manera de descargar e instalar parches de idioma automáticamente.\nUn escaneo automático ha encontrado los siguientes juegos:",
+    
+    "APP_LOADING": "Cargando...",
+    "APP_ERROR_MISSING_LOCATIONS": "Falta locations.json",
+    "APP_ERROR_INVALID_LANGUAGE": "Idioma inválido",
+    "APP_MESSAGEBOX_TITLE": "Aviso",
+    "APP_DISCLAIMER": "Este software está hecho por fans y no está asociado con Jackbox Games, Smiling Buddha Games o Wide Right Interactive. No te pongas en contacto con ellos para obtener ayuda relacionada con este software. Este es un software gratuito, si has pagado por él, entonces te han estafado. Este software no tiene garantía.",
+    "APP_LANG_THANKS": "",
+    "APP_LANG_MESSAGE": ""
+}
