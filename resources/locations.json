@@ -105,5 +105,41 @@
             "uyw": "https://github.com/AkiraArtuhaxis/Use-Your-Words-Spanish/relases/latest/download/UWY-ES.zip",
             "wtd": "https://github.com/AkiraArtuhaxis/What-The-Dub-Spanish/releases/latest/download/WTD-ES-SPAIN.zip"
         }
+    },
+    "catalan": {
+        "version": {
+            "pp1": "https://raw.githubusercontent.com/PauGuri2002/JPP1-CA/master/config.jet",
+            "pp2": "https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/main/Main/config.jet",
+            "pp3": "https://raw.githubusercontent.com/PauGuri2002/JPP3-CA/master/config.jet",
+            "pp4": "https://raw.githubusercontent.com/PauGuri2002/JPP4-CA/master/config.jet",
+            "pp5": "https://raw.githubusercontent.com/PauGuri2002/JPP5-CA/master/config.jet",
+            "pp6": "https://raw.githubusercontent.com/PauGuri2002/JPP6-CA/master/config.jet",
+            "pp7": "https://raw.githubusercontent.com/PauGuri2002/JPP7-CA/master/config.jet",
+            "pp8": "https://raw.githubusercontent.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/main/Main/config.jet",
+            "qp1": "https://raw.githubusercontent.com/AkiraArtuhaxis/Quiplash-Quip-Pack-1-Spanish/main/Main[Spain]/jbg.config.jet",
+            "qp2": "",
+            "dr2": "",
+            "fxl": "https://raw.githubusercontent.com/AkiraArtuhaxis/Fibbage-XL-Spanish/main/Main/jbg.config.jet",
+            "uyw": "https://raw.githubusercontent.com/AkiraArtuhaxis/Use-Your-Words-Spanish/main/Main/version.dat",
+            "wtd": "https://raw.githubusercontent.com/AkiraArtuhaxis/What-The-Dub-Spanish/main/Main[Spain]/version.dat"
+        },
+        "patch-locale": "CA",
+        "patch": {
+            "pp1": "https://github.com/PauGuri2002/JPP1-CA/releases/latest/download/JPP1-CA.zip",
+            "pp2": "https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-2-Spanish/releases/latest/download/JPP2-ES.zip",
+            "pp3": "https://github.com/PauGuri2002/JPP3-CA/releases/latest/download/JPP3-CA.zip",
+            "pp4": "https://github.com/PauGuri2002/JPP4-CA/releases/latest/download/JPP4-CA.zip",
+            "pp5": "https://github.com/PauGuri2002/JPP5-CA/releases/latest/download/JPP5-CA.zip",
+            "pp6": "https://github.com/PauGuri2002/JPP6-CA/releases/latest/download/JPP6-CA.zip",
+            "pp7": "https://github.com/PauGuri2002/JPP7-CA/releases/latest/download/JPP7-CA.zip",
+            "pp8": "https://github.com/AkiraArtuhaxis/The-Jackbox-Party-Pack-8-Spanish/releases/latest/download/JPP8-ES.zip",
+            "qp1": "https://github.com/AkiraArtuhaxis/Quiplash-Quip-Pack-1-Spanish/releases/latest/download/QUIP-ES-SPAIN.zip",
+            "qp1dlc": "https://github.com/AkiraArtuhaxis/Quiplash-Quip-Pack-1-Spanish/releases/latest/download/QP1-ES.zip",
+            "qp2": "",
+            "dr2": "",
+            "fxl": "https://github.com/AkiraArtuhaxis/Fibbage-XL-Spanish/releases/latest/download/FBXL-ES.zip",
+            "uyw": "https://github.com/AkiraArtuhaxis/Use-Your-Words-Spanish/relases/latest/download/UWY-ES.zip",
+            "wtd": "https://github.com/AkiraArtuhaxis/What-The-Dub-Spanish/releases/latest/download/WTD-ES-SPAIN.zip"
+        }
     }
 }

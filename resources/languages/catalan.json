@@ -1,0 +1,46 @@
+{
+    "APP_NAME": "Jackbox Party Pack Patcher+",
+    "MAIN_INSTALLED_VERSION": "Versió Instal·lada",
+    "MAIN_INSTALL_PATCH": "Instal·lar Traducció",
+    "MAIN_INSTALL_ALL": "Actualitzar-ho Tot",
+    "MAIN_UPDATE_AVAILABLE": "Actualitzar",
+    "MAIN_UPDATE_PATCH": "Actualitzar Traducció",
+    "MAIN_REMOVE_PATCH": "Desinstal·lar Traducció",
+    "MAIN_PATCH_UPDATE": "Nova:",
+    "MAIN_NO_PATCH_FOR_GAME": "No Disponible",
+    "MAIN_GAME_MISSING": "Joc no Trobat",
+    "MAIN_GAME_PATCH_UPTODATE": "Actualitzat",
+    "MAIN_RUN_SETUP": "Configuració",
+    "SETUP_HEADER": "Et donem la benvinguda al Jackbox Party Pack Patcher+ - L'instal·lador de traduccions tot en un.\nSelecciona l'executable de cada joc que tinguis instal·lat a sota i fes clic a Desar per continuar.\nEls títols verds indiquen que és un camí vàlid.",
+    
+    "MAIN_DOWNLOAD_CONNECTING": "Connectant al Servidor...",
+    "MAIN_DOWNLOAD_CONNECTED": "Connexió Establerta!",
+    "MAIN_DOWNLOAD_DOWNLOADING": "Descarregant...",
+    "MAIN_DOWNLOAD_EXTRACTING": "Descomprimint...",
+    "MAIN_DOWNLOAD_INSTALLED": "Traducció de {} Instal·lada",
+    "MAIN_DOWNLOAD_CONNECTFAIL": "No s'ha pogut connectar al servidor.",
+    "MAIN_DOWNLOAD_BADURL": "Error! URL incorrecta",
+    "MAIN_DOWNLOAD_ERROR": "Error desconegut",
+    
+    
+    "SETUP_JACKBOX_PACK_LOCATIONS": "Ubicacions dels Packs de Jackbox",
+    "SETUP_STAND_ALONE_GAMES": "Jocs Independents",
+    "SETUP_LANGUAGE": "Idioma",
+    "SETUP_BROWSE": "Explora",
+    "SETUP_ATTEMPT_AUTO_DETECT": "Intenta Detecció Automàtica",
+    "SETUP_SAVE_CONTINUE": "Desar i Continuar",
+    "SETUP_NEW_LANG": "L'aplicació es tancarà per aplicar el nou idioma. Torna-la a obrir, si us plau.",
+
+    "SETUP_TEXT_SCANNING": "Escanejant...",
+    "SETUP_TEXT_DONESCANNING": "Escaneig Completat!",
+    "SETUP_TEXT_FOUND": "Hem trobat el següent:",
+    "SETUP_TEXT_FIRST_FOUND": "Et donem la benvinguda a {}!\nUna manera de descarregar i instal·lar traduccions automàticament.\nUn escaneig automàtic ha trobat els següents jocs:",
+    
+    "APP_LOADING": "Carregant...",
+    "APP_ERROR_MISSING_LOCATIONS": "No s'ha trobat el fitxer locations.json",
+    "APP_ERROR_INVALID_LANGUAGE": "Idioma Invàlid",
+    "APP_MESSAGEBOX_TITLE": "Alerta",
+    "APP_DISCLAIMER": "Aquest software ha sigut creat per fans i no està recolzat per Jackbox Games, Smiling Buddha Games, o Wide Right Interactive. No els contacteu per incidències relacionades amb aquest software. Aquest software és gratuit, si has pagat per ell has sigut estafat. Aquest software no té cap garantia.",
+    "APP_LANG_THANKS": "",
+    "APP_LANG_MESSAGE": ""
+}
