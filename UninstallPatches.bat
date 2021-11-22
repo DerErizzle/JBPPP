@@ -8,18 +8,18 @@ echo == JBPPP+ Game Restore ==
 echo.
 echo 1. Jackbox Party Pack 1
 echo 2. Jackbox Party Pack 2
-echo 2. Jackbox Party Pack 3
+echo 3. Jackbox Party Pack 3
 echo 4. Jackbox Party Pack 4
 echo 5. Jackbox Party Pack 5
 echo 6. Jackbox Party Pack 6
 echo 7. Jackbox Party Pack 7
 echo 8. Jackbox Party Pack 8
-echo 9. Quiplash
-echo 10. Quiplash 2
-echo 11. Fibbage XL
-echo 12. Drawful 2
-echo 13. Use Your Words
-echo 14. What The Dub
+echo a. Quiplash
+echo b. Quiplash 2
+echo c. Fibbage XL
+echo d. Drawful 2
+echo e. Use Your Words
+echo f. What The Dub
 set choice=
 set /p choice=Select number for game to restore: 
 if not '%choice%'=='' set choice=%choice:~0,1%
@@ -31,12 +31,12 @@ if '%choice%'=='5' goto jb5
 if '%choice%'=='6' goto jb6
 if '%choice%'=='7' goto jb7
 if '%choice%'=='8' goto jb8
-if '%choice%'=='9' goto qp1
-if '%choice%'=='10' goto qp2
-if '%choice%'=='11' goto fxl
-if '%choice%'=='12' goto dr2
-if '%choice%'=='13' goto uyw
-if '%choice%'=='14' goto wtd
+if '%choice%'=='a' goto qp1
+if '%choice%'=='b' goto qp2
+if '%choice%'=='c' goto fxl
+if '%choice%'=='d' goto dr2
+if '%choice%'=='e' goto uyw
+if '%choice%'=='f' goto wtd
 ECHO "%choice%" is not valid, try again
 ECHO.
 goto start
