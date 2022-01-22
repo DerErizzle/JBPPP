@@ -44,6 +44,6 @@
     "APP_MESSAGEBOX_TITLE": "Warnung",    
     "APP_DISCLAIMER": "Diese Software wurde von Fans entwickelt und wird nicht von Jackbox Games, Smiling Buddha Games oder Wide Right Interactive unterstützt. Kontaktiere sie nicht, wenn du Hilfe für diese Software benötigst. Diese Software ist kostenlos. Wenn du für sie bezahlt hast, wurdest du betrogen. Diese Software wird ohne Garantie geliefert",
     "APP_LANG_THANKS": "",
-    "APP_LANG_MESSAGE": "Unterstütze gerne die Deutsche Übersetzer-Community unter jackboxpatch.de/patreon"
+    "APP_LANG_MESSAGE": "Unterstütze gerne die Deutsche Übersetzer-Community unter jackboxpatch.de/patreon\n \nBei 99 Prozent wird sich für ein paar Sekunden die Kommandozeile öffnen. Schließe das Fenster nicht, ansonsten wird die Installation abgebrochen."
     
 }
